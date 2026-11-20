@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c381beea.css",
+    "main.js": "/static/js/main.41baf7a3.js",
+    "static/media/dragon-barracks.jpg": "/static/media/dragon-barracks.aafca58af5b2f08b430b.jpg",
+    "static/media/dragon-gardens.jpg": "/static/media/dragon-gardens.c6f057517654600d08c5.jpg",
+    "static/media/DragonIco432.png": "/static/media/DragonIco432.87b20800afd80da05047.png",
+    "static/media/dragon-dungeon.jpg": "/static/media/dragon-dungeon.4448ad7562661ea60fee.jpg",
+    "static/media/dragon-ascend-logo.png": "/static/media/dragon-ascend-logo.ebb303f16589187064b6.png",
+    "index.html": "/index.html",
+    "main.c381beea.css.map": "/static/css/main.c381beea.css.map",
+    "main.41baf7a3.js.map": "/static/js/main.41baf7a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c381beea.css",
+    "static/js/main.41baf7a3.js"
+  ]
+}
